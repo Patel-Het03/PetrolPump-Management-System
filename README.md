@@ -32,7 +32,7 @@ This project, titled PetrolPump Management System, was developed as part of a Da
 * read.py --> It read data from table and send it to view function to display.
 * update.py -->  It updates the data in the table.
 
-###Team Member
+### Team Member
 
 - Patel Het(2021CSB1119)
 - Kushagra Sharma(2021CSB1107)

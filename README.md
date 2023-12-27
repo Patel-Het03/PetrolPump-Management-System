@@ -1,6 +1,6 @@
 # PetrolPump-Management-System [DBMS]  
 
-##Project Overview
+## Project Overview
 This project, titled PetrolPump Management System, was developed as part of a Database Management System (DBMS) course . The system is designed to efficiently manage and monitor operations within a petrol pump, providing a user-friendly interface for various tasks.
 
 ## Impletation Environment
